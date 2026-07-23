@@ -69,7 +69,7 @@ function App() {
       <h1>Código QR</h1>
 
       <QRCodeSVG
-  value="http://100.115.92.26:5174/?tarjeta=KP-000001"
+  value="https://:kupisi.vercel.app/?tarjeta=KP-000001"
   size={220}
 />
       
